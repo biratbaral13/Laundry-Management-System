@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Role Selection.png</file>
+    </qresource>
+</RCC>
